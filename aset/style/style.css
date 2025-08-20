@@ -35,7 +35,7 @@ nav a :hover {
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0,2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
     border-radius: 5px ;
     padding: 20px;
     margin-top: 20px;
@@ -58,6 +58,7 @@ nav li{
 nav {
     background-color: whitesmoke;
     padding: 5px;
+    text-align: center;
 }
 
 .profile img{
@@ -84,3 +85,4 @@ footer {
     text-align: center;
     font-weight: bold;
 }
+
